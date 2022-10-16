@@ -1,9 +1,14 @@
 # TP_CabinetVeterinaire
 
+Projet réalisé par Lucas ROUQUAIROL et Allan CRISTA
+
+Ceci est le TP RMI à rendre dans le cadre de l'UE HAI704I - Architectures Logicielles Distribuées pour notre Master 1 GL.
+
 EXECUTION :
 1. Compiler le projet
 2. Lancer "Serveur"
 3. Lancer "Client"
+4. Entrez le numéro de l'action que vous souhaitez effectuer
 
 UTLISATION :
 1. Ajouter un animal : Entrer le nom, nom du maitre, espèce et race du nouvel animal

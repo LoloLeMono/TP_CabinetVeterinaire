@@ -6,8 +6,8 @@ Ceci est le TP RMI à rendre dans le cadre de l'UE HAI704I - Architectures Logic
 
 EXECUTION :
 1. Compiler le projet
-2. Lancer "Serveur"
-3. Lancer "Client"
+2. Exécuter "src/server/Serveur.java"
+3. Exécuter "src/client/Client.java"
 4. Entrez le numéro de l'action que vous souhaitez effectuer
 
 UTLISATION :
